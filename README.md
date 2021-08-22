@@ -1,7 +1,7 @@
 # AStarPathfinding
 ## Description
 ## Project Setup
-Ensure that you are using Python version 3.8.4
+Ensure that you are using Python version 3.9.6
 1. `git clone https://github.com/darreb/AStarPathfinding.git` to clone this repo
 2. `cd AStarPathfinding/` to access the folder
 3. `python -m venv env` to create a virtual environment
