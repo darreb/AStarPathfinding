@@ -74,7 +74,7 @@ class Simulator:
                         # This gives each cell a display on the screen.
                         for row in self.grid.cell_arr:
                             for cell in row:
-                                cell.draw()
+                                cell.draw(self.screen)
 
                         # Draw buttons in UI
                         self.ui.draw(self.screen)
